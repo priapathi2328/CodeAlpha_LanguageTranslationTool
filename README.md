@@ -44,6 +44,4 @@ You can extend this project by:
 - Google for providing the translation API
 - Open-source community for the libraries used
 
----
 
-⭐️ If you found this project helpful, please give it a star on GitHub!
